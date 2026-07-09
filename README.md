@@ -6,7 +6,7 @@
 
 ### Aspiring Software Developer from India 🇮🇳
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=C%2B%2B+Programmer;Learning+Data+Structures+%26+Algorithms;JavaScript+Developer;Building+Mini+Projects;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=BCA+Student;Learning+DSA+with+C%2B%2B;Learning+JavaScript;Building+Mini+Projects;Always+Learning+New+Things" />
 
 <p>
 
@@ -37,7 +37,7 @@
 - 🌱 Currently improving my **JavaScript** skills by building mini projects.
 - 🎯 Interested in Software Development and Problem Solving.
 - 📚 Continuously learning and improving programming fundamentals.
-- 🚀 Goal: Become a skilled Software Developer through consistent practice and real-world projects.
+- 🚀 Goal: Become a skilled Software Developer through consistent practice.
 
 ---
 
@@ -147,15 +147,7 @@ BCA Semester Project focused on improving development and problem-solving skills
 
 ---
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahulchands2212&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
