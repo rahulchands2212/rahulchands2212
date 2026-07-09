@@ -133,12 +133,11 @@ BCA Semester Project focused on improving development and problem-solving skills
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulchands2212&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulchands2212&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchands2212&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulchands2212&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=rahulchands2212&theme=tokyonight&hide_border=true"/>
