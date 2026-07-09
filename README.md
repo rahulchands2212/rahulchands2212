@@ -177,7 +177,7 @@ BCA Semester Project focused on improving development and problem-solving skills
 💻 JavaScript Development
 🌐 HTML & CSS
 🛠 Git & GitHub
-📚 Building Real-World Projects
+📚 Building mini Projects
 ```
 
 ---
