@@ -167,7 +167,7 @@ BCA Semester Project focused on improving development and problem-solving skills
 
 </p>
 
-> **Note:** Snake animation tabhi dikhegi jab baad me GitHub Actions enable karoge. Main uska setup bhi bata dunga.
+
 
 ---
 
